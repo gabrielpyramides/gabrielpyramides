@@ -1,16 +1,31 @@
-## Hi there 👋
-
-<!--
-**gabrielpyramides/gabrielpyramides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Olá, eu sou Gabriel Pyrâmides 👋
+ 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (último semestre)
+ 
+💼 Atualmente sou estagiário no Banco do Brasil, atuando na área administrativa.
+ 
+🚀 No meu tempo livre estudo programação por meio de cursos da Alura e desenvolvimento de projetos próprios com foco em Python e desenvolvimento back-end.
+ 
+## 🛠 Tecnologias
+ 
+- Python
+- Git
+- GitHub
+- JSON
+- SQL
+ 
+## 📂 Projetos
+ 
+### Gerenciador de Tarefas
+Aplicação desenvolvida em Python para gerenciamento de tarefas via terminal.
+ 
+🔗 https://github.com/gabrielpyramides/Gerenciador-de-Tarefas
+ 
+## 🎯 Objetivo
+ 
+Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário em Tecnologia para aplicar e expandir meus conhecimentos em desenvolvimento de software.
+ 
+## 📫 Contato
+ 
+- LinkedIn: https://www.linkedin.com/in/gabrielpyramides/
+- Email: pyramides2003@gmail.com
