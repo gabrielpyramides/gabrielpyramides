@@ -8,15 +8,23 @@
 
  
 ## 🛠 Tecnologias
- 
+### Linguagens
 - Python
-- Git
-- GitHub
-- JSON
 - SQL
  
-## 📂 Projetos
+### Ferramentas
+- Git
+- GitHub
  
+### Conceitos
+- Programação Orientada a Objetos (POO)
+- Persistência de Dados com JSON
+
+## 📚 Atualmente estudando
+- PostgreSQL
+- FastAPI
+ 
+## 📂 Projetos
 ### Gerenciador de Tarefas
 Aplicação desenvolvida em Python para gerenciamento de tarefas via terminal.<br><br>
 🔗 https://github.com/gabrielpyramides/Gerenciador-de-Tarefas
@@ -30,6 +38,5 @@ Projeto em Python utilizando Programação Orientada a Objetos e persistência d
 Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário em Tecnologia para aplicar e expandir meus conhecimentos em desenvolvimento de software.
  
 ## 📫 Contato
- 
 - LinkedIn: https://www.linkedin.com/in/gabrielpyramides/
 - Email: pyramides2003@gmail.com
