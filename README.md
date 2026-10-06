@@ -18,9 +18,13 @@
 ## 📂 Projetos
  
 ### Gerenciador de Tarefas
-Aplicação desenvolvida em Python para gerenciamento de tarefas via terminal.
- 
+Aplicação desenvolvida em Python para gerenciamento de tarefas via terminal.<br><br>
 🔗 https://github.com/gabrielpyramides/Gerenciador-de-Tarefas
+ 
+### 🚧 Sistema Bancário (em desenvolvimento)
+Projeto em Python utilizando Programação Orientada a Objetos e persistência de dados com JSON para simular operações bancárias como criação de contas, depósitos, saques e extrato.<br><br>
+🔗 https://github.com/gabrielpyramides/Sistema-Bancario 
+
  
 ## 🎯 Objetivo
  
