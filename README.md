@@ -27,7 +27,6 @@ Projeto em Python utilizando Programação Orientada a Objetos e persistência d
 
  
 ## 🎯 Objetivo
- 
 Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário em Tecnologia para aplicar e expandir meus conhecimentos em desenvolvimento de software.
  
 ## 📫 Contato
